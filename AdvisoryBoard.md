@@ -1,5 +1,5 @@
 |Name|Affiliation|
-|----+-----------|
+|----|-----------|
 |Chris Bird| 	Microsoft
 |Kelly Blincoe|	University of Aucland|
 |Premkumar Devanbu|	University|of California|
