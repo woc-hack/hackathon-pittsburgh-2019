@@ -1,6 +1,6 @@
 First Zoom Call: Sep 11, Noon EST
 
-Second Zoom Call: Sep 13, 8AM EST
+Backup Zoom Call: Sep 13, 8AM EST (tentative date/time for AB members who could not make Sep 11 call)
 
 Zoom information: 
 
