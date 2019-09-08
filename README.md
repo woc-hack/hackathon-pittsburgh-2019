@@ -1,64 +1,69 @@
 # WoC Hackathon draft schedule Nov 1-3 Pittsburgh, PA
 
-Pre-Hackathon Needs
+## Pre-Hackathon Needs
 
-Slack: woc-hack.slack.com invite at http://bit.ly/WoC-Hack
-Github: https://github.com/woc-hack
+* Slack: woc-hack.slack.com invite at http://bit.ly/WoC-Hack
 
-Registration form: http://bit.ly/WoC-Signup
+* Github: https://github.com/woc-hack
 
-Hackathon Tutorial Webinar: Oct 15 or so 
+* Hackathon registration form: http://bit.ly/WoC-Signup
 
-Hackathon - 
+* Hackathon Tutorial Webinar: Oct 15 or so 
 
-Friday 5PM Opening Ceremony - inspirational words AND logistics/schedule
+## Hackathon Itself  
+
+* Friday 
+
+* 5PM Opening Ceremony - inspirational words AND logistics/schedule
 15 mins
 
-Start with game to get to know each other (2 truths 1 lie)
+* Start with game to get to know each other (2 truths 1 lie)
 30 mins
 
-Brainstorming or other ideation technique (headstand)
+* Brainstorming or other ideation technique (headstand)
 20 mins 
 
-Put all ideas on a board, discuss and vote for them 
+* Put all ideas on a board, discuss and vote for them 
 (potentially cluster into short-, mid- and long-term)
 20 mins
 
-Form teams around (short-term) ideas - enforce rule to disallow participants 
+* Form teams around (short-term) ideas - enforce rule to disallow participants 
 from same organization working together
 
-Dinner
+* Dinner
 
-Saturday
-8:00 Breakfast
-9:00 Rehash topics and teams + discuss days schedule
+###  Saturday
 
-9:15: Start working
+* 8:00 Breakfast
 
-12:00 Report progress obstacles before lunch
+* 9:00 Rehash topics and teams + discuss days schedule
 
-12:15 Lunch, socialization
+* 9:15: Start working
 
-1:30: Work
+* 12:00 Report progress obstacles before lunch
 
-17:00 Report progress and status so another team which will continue to use the existing results
+* 12:15 Lunch, socialization
+
+* 1:30: Work
+
+* 17:00 Report progress and status so another team which will continue to use the existing results
  to build upon on Sunday 
 
-19:00 Dinner (creating new teams) 
+* 19:00 Dinner (creating new teams) 
 
-Sunday
+### Sunday
 
-8:00 Breakfast
+* 8:00 Breakfast
 
-9:00 Schedule/status
+* 9:00 Schedule/status
 
-9:15 Work
+* 9:15 Work
 
-12:00 I liked, I wish, I wonder
+* 12:00 I liked, I wish, I wonder
 
-12:30 Survey
+* 12:30 Survey
 
-13:00 Lunch (or lunch-box)
+* 13:00 Lunch (or lunch-box)
 
-14:00 Steelers Football game for fans or travel to the airport
+* 14:00 Steelers Football game for fans or travel to the airport
 
