@@ -7,32 +7,30 @@ Sep 13, 8AM EST
 
 ## Items on the agenda
 
-1. WoC Background
+1. Is recording of the meeting OK: plan to share with everyone on AB
 
-A brief overview of what we’re trying to accomplish with WoC (how to
-make it into a resource for the whole SE research community). 
+1. AB statements
 
-Our plans for the hackathon.
+1. WoC Background/Hackathon
 
-2. How would the AB like to interact?
+1. How would the AB like to interact?
 
-In addition to an annual FtF meeting, would it make sense to have a
-slack channel, or some other asynchronous mechanism where people
-could post ideas and questions? 
-
-3. Community outreach
-
-Are there other ways, e.g., workshop at ICSE'20, that we should interact with
-the wider SE research community?
-
-What else can we do to build a community and make sure WoC is as
-useful to the community as possible? 
-
-4. After the hackathon, would AB be willing to give advice on
-   prioritizing ideas that arise from the hackathon 
+1. Community outreach
 
 
-## Agenda
+## Detailed Agenda
+
+
+###. AB Statements
+
+- For each AB member
+    1. Do you use open source data?
+    1. What are the limitations you are experiencing? 
+    1. What improvements in data availability would you like to see?
+	1. Would the ability to capture the slice of OSS that is not
+        repository focused be useful?
+	1. Other needs?
+
 
 ### What is WoC: in a nutshell
 
@@ -73,7 +71,7 @@ afford to enable research on global properties of FLOSS
        look over the recording
     1. Draft tutorial at: 
 
-2. How would the AB like to interact?
+### How would the AB like to interact?
 
 In addition to an annual FtF meeting, would it make sense to have a
 slack channel, or some other asynchronous mechanism where people
@@ -82,7 +80,20 @@ could post ideas and questions?
 Slack: bit.ly/WoC-Hack
 github.com/WoC-hack 
 
-3. Community outreach
+Do we need subgroups with specific interests, would some AB (or
+non-AB) members want to become more actively involved? 
+
+Would it make sense to run WoC as an open source project (e.g., inviting and vetting contributions, for 
+example)?
+
+If so who from AB would like to participate?
+
+What licenses to use for code/data to foster community?
+
+After the hackathon, would AB be willing to give advice on
+prioritizing ideas that arise from the hackathon 
+
+### Community outreach
 
 Are there other ways, e.g., workshop at ICSE'20, that we should interact with
 the wider SE research community?
@@ -90,5 +101,4 @@ the wider SE research community?
 What else can we do to build a community and make sure WoC is as
 useful to the community as possible? 
 
-4. After the hackathon, would AB be willing to give advice on
-   prioritizing ideas that arise from the hackathon 
+
