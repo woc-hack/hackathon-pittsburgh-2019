@@ -61,7 +61,7 @@ afford to enable research on global properties of FLOSS
 	
 ### Hackathon
 
-- Register: bit.ly/WoC-Signup
+- Register: bit.ly/WoC-Hack
 
     1. Needed to provide you an account on servers/add to gh/bb groups
     1. Give at least one sentence description of what the
@@ -69,7 +69,7 @@ afford to enable research on global properties of FLOSS
     1. Please encourage participants to join the webinar (mid Oct,
        data TBD) or at least
        look over the recording
-    1. Draft tutorial at: 
+    1. Draft tutorial at:  https://github.com/woc-hack/tutorial
 
 ### How would the AB like to interact?
 
@@ -77,7 +77,7 @@ In addition to an annual FtF meeting, would it make sense to have a
 slack channel, or some other asynchronous mechanism where people
 could post ideas and questions? 
 
-Slack: bit.ly/WoC-Hack
+Slack: bit.ly/WoC-Signup
 github.com/WoC-hack 
 
 Do we need subgroups with specific interests, would some AB (or
