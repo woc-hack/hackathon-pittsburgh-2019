@@ -2,17 +2,22 @@
 
 ## Pre-Hackathon Needs
 
-* Slack: woc-hack.slack.com invite at http://bit.ly/WoC-Hack
+* Google groups: https://groups.google.com/forum/#!forum/woc-ab
 
 * Github: https://github.com/woc-hack
 
 * Hackathon registration form: http://bit.ly/WoC-Signup
 
+* Slack: woc-hack.slack.com invite at http://bit.ly/WoC-Hack
+
 * Hackathon Tutorial Webinar: Oct 15 or so 
+
+* Online tutorial: [draft](https://github.com/woc-hack/tutorial) 
+
 
 ## Hackathon Itself  
 
-* Friday 
+### Friday Nov 1
 
 * 5PM Opening Ceremony - inspirational words AND logistics/schedule
 15 mins
@@ -32,7 +37,7 @@ from same organization working together
 
 * Dinner
 
-###  Saturday
+###  Saturday Nov 2
 
 * 8:00 Breakfast
 
@@ -51,7 +56,7 @@ from same organization working together
 
 * 19:00 Dinner (creating new teams) 
 
-### Sunday
+### Sunday Nov 3
 
 * 8:00 Breakfast
 
