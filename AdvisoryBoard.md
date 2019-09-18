@@ -30,5 +30,6 @@ https://tennessee.zoom.us/zoomconference?m=leg4C6yjhpfGHE-_Q9EYRNHXCUMBC-2T
 |Hridesh Rajan|	Iowa State University|
 |Tim Menzies|	North Carolina State University|
 |Emmerson Murphy-Hill|	Google|
+|Margaret-Anne Storey|University of Victoria|
 |Laurie Williams|	North Carolina State University|
 |Bogdan Vasilescu|	Carnegie Mellon University|
