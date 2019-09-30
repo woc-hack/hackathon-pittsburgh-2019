@@ -22,20 +22,22 @@
 * 5PM Opening Ceremony - inspirational words AND logistics/schedule
 15 mins
 
-* Start with game to get to know each other (2 truths 1 lie)
+* 5:15 Start with game to get to know each other (2 truths 1 lie)
 30 mins
 
-* Brainstorming or other ideation technique (headstand)
-20 mins 
+* 5:45 Brainstorming or other ideation technique (headstand)
+15 mins 
 
-* Put all ideas on a board, discuss and vote for them 
+* until 6:30 Break (snacks)
+
+* 6:30 Put all ideas on a board, discuss and vote for them 
 (potentially cluster into short-, mid- and long-term)
 20 mins
 
-* Form teams around (short-term) ideas - enforce rule to disallow participants 
+* 6:50 Form teams around (short-term) ideas - enforce rule to disallow participants 
 from same organization working together
 
-* Dinner
+* 8:00 Dinner
 
 ###  Saturday Nov 2
 
