@@ -47,11 +47,15 @@ from same organization working together
 
 * 9:15: Start working
 
+* 10:30 Social game (30min) (snacks)
+
 * 12:00 Report progress obstacles before lunch
 
 * 12:15 Lunch, socialization
 
 * 1:30: Work
+
+* 3:30 Game (30min) (snacks)
 
 * 17:00 Report progress and status so another team which will continue to use the existing results
  to build upon on Sunday 
@@ -65,6 +69,8 @@ from same organization working together
 * 9:00 Schedule/status
 
 * 9:15 Work
+
+* 10:30 Social game (30min) (snacks)
 
 * 12:00 I liked, I wish, I wonder
 
