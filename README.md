@@ -66,17 +66,15 @@ from same organization working together
 
 * 8:00 Breakfast
 
-* 9:00 Schedule/status
+* 9:00 Work
 
-* 9:15 Work
+* 11:00 Presentations
 
-* 10:30 Social game (30min) (snacks)
+* 11:45 I liked, I wish, I wonder
 
-* 12:00 I liked, I wish, I wonder
+* 12:00 Survey
 
-* 12:30 Survey
+* 12:15 Lunch (or lunch-box)
 
-* 13:00 Lunch (or lunch-box)
-
-* 14:00 Steelers Football game for fans or travel to the airport
+* 13:00 Steelers Football game for fans or travel to the airport
 
