@@ -2,9 +2,9 @@
 
 # Travel
 
-Pittsuburgh International Airport
+Pittsburgh International Airport
 
-Bus/Uber/Taxi to CMU
+Bus/Lyft/Uber/Taxi to CMU
 
 # Several options for the hotels:
 
