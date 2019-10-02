@@ -1,6 +1,6 @@
 # Hackathon location
 
-Hackathon room location is Gates Hillman Centers, Raj Reddy Conference Room 4405 
+Hackathon room location is [Gates Hillman Centers, Raj Reddy Conference Room 4405](https://goo.gl/maps/fLdALmj8ymZNonKy5)
    
 Additional info:  
 
