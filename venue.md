@@ -1,8 +1,16 @@
 # Hackathon location
 
-Main Room: 
+Hackathon room location is Gates Hillman Centers, Raj Reddy Conference Room 4405 
+   
+Additional info:  
+
+* Break-out rooms are Gates Hillman Centers rooms:   6121, 6501 and 7101.
+ 
+Gates Hillman has an entrance to the 4th floor right off of Forbes Avenue - Conf. room 4405 is to the right.
 
 # Travel
+
+[General travel info](https://www.cmu.edu/visit/) 
 
 Pittsuburgh International Airport
 
@@ -12,7 +20,7 @@ Walking distance to CMU from Shadyside, Squirell Hill, Oakland
 
 Bus app: [Transit](https://transit.app)
 
-# Several options for the hotels:
+# Several options for the hotels (please ask for CMU discounted rate):
 
 ## Wyndham Pittsburgh University Center
 100 LYTTON AVE  PITTSBURGH ,  PENNSYLVANIA   15213
