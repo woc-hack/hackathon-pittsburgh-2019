@@ -12,11 +12,11 @@ Gates Hillman has an entrance to the 4th floor right off of Forbes Avenue - Conf
 
 [General travel info](https://www.cmu.edu/visit/) 
 
-Pittsuburgh International Airport
+Pittsburgh International Airport (PIT)
 
-Bus/Uber/Taxi to CMU/Hotel/Air B&B: bus is about 1h, Uber/Lyft 30Min 
+Bus/Uber/Taxi to CMU/Hotel/Air B&B: the bus takes about 1+hr, Uber/Lyft 30+min depending on the time of day 
 
-Walking distance to CMU from Shadyside, Squirell Hill, Oakland
+Walking distance to CMU from: Shadyside, Squirell Hill, Oakland
 
 Bus app: [Transit](https://transit.app)
 
