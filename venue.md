@@ -1,14 +1,16 @@
 # Hackathon location
 
+Main Room: 
+
 # Travel
 
 Pittsuburgh International Airport
 
-Bus/Uber/Taxi to CMU: bus is about 1h, Uber/Lyft 30Min 
+Bus/Uber/Taxi to CMU/Hotel/Air B&B: bus is about 1h, Uber/Lyft 30Min 
 
 Walking distance to CMU from Shadyside, Squirell Hill, Oakland
 
-Bus app: Transit
+Bus app: [Transit](https://transit.app)
 
 # Several options for the hotels:
 
