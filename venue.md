@@ -4,7 +4,11 @@
 
 Pittsuburgh International Airport
 
-Bus/Uber/Taxi to CMU
+Bus/Uber/Taxi to CMU: bus is about 1h, Uber/Lyft 30Min 
+
+Walking distance to CMU from Shadyside, Squirell Hill, Oakland
+
+Bus app: Transit
 
 # Several options for the hotels:
 
@@ -36,3 +40,17 @@ Pittsburgh, PA  15232
  412-441-4444
 
 https://www.shadysideinn.com/ 
+
+
+## AirBNB
+ 
+ Look for Squirell Hill, Shadyside locations
+ 
+ 
+## Reimbursement
+
+In a nutshell: economy class for flights, conus rates, no alcohol, minimize expenses
+
+[Travel Policies](https://liveutk.sharepoint.com/sites/engineering/eecs/portal/Shared%20Documents/Travel%20Policies%20and%20Procedures.docx)
+
+[Travel Policies -- more](https://universitytennessee.policytech.com/dotNet/documents/?docid=566&public=true)
