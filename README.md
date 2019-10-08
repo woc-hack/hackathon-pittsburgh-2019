@@ -2,6 +2,8 @@
 
 ## Pre-Hackathon Needs
 
+* [Venue, travel, reimbursement](https://github.com/woc-hack/schedule/edit/master/venue.md) 
+
 * Google groups: [Participants](https://groups.google.com/forum/#!forum/woc-hack), 
                  [Advisory Board](https://groups.google.com/forum/#!forum/woc-ab) 
 
