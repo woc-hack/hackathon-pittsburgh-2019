@@ -2,7 +2,8 @@
 
 ## Pre-Hackathon Needs
 
-* Google groups: https://groups.google.com/forum/#!forum/woc-ab
+* Google groups: [Participants](https://groups.google.com/forum/#!forum/woc-hack), 
+                 [Advisory Board](https://groups.google.com/forum/#!forum/woc-ab) 
 
 * Github: https://github.com/woc-hack
 
