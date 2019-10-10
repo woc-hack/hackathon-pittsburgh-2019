@@ -24,62 +24,55 @@
 
 ### Friday Nov 1
 
-* 5PM Opening Ceremony - inspirational words AND logistics/schedule
-15 mins
+* 05:00pm - 05:15pm: Opening Ceremony - inspirational words AND logistics/schedule
 
-* 5:15 Start with game to get to know each other (2 truths 1 lie)
-30 mins
+* 05:15pm - 05:45pm: Start with game to get to know each other (2 truths 1 lie)
 
-* 5:45 Brainstorming or other ideation technique (headstand)
-15 mins 
+* 05:45pm - 06:00pm: Ideation (brainstorming or other)
 
-* until 6:30 Break (snacks)
+* 06:00pm - 06:30pm: Break (snacks) - putting ideas on board and conduct short clustering (e.g. based on short-, mid- and long-term)
 
-* 6:30 Put all ideas on a board, discuss and vote for them 
-(potentially cluster into short-, mid- and long-term)
-20 mins
+* 06:30pm - 07:00pm: Explain clusters and answer potential questions
 
-* 6:50 Form teams around (short-term) ideas - enforce rule to disallow participants 
-from same organization working together
+* 07:00pm - 07:30pm: Form teams around clusters (initials + colors for different institutions + priority / 1-3) / ideas within clusters (enforce rule to disallow participants from same organization working together)
 
-* 8:00 Dinner
+* 07:30pm - 08:00pm: Teams get together and get to know each other
+
+* 08:00pm: Dinner
 
 ###  Saturday Nov 2
 
-* 8:00 Breakfast
+* 08:00am - 09:00am: Breakfast
 
-* 9:00 Rehash topics and teams + discuss days schedule
+* 09:00am - 09:15am: Rehash topics and teams + discuss days schedule
 
-* 9:15: Start working
+* 09:15am - 12:00pm: Working time
 
-* 10:30 Social game (30min) (snacks)
+* 12:00pm - 12:15pm: Report progress obstacles before lunch
 
-* 12:00 Report progress obstacles before lunch
+* 12:15pm - 01:30pm: Lunch
 
-* 12:15 Lunch, socialization
+* 01:30pm - 03:30pm: Working time
 
-* 1:30: Work
+* 03:30pm - 04:00pm: Game
 
-* 3:30 Game (30min) (snacks)
+* 04:00pm - 06:30pm: Working time
 
-* 17:00 Report progress and status so another team which will continue to use the existing results
- to build upon on Sunday 
+* 06:30pm - 07:00pm: Report progress and status (of project)
 
-* 19:00 Dinner (creating new teams) 
+* 07:00pm: Dinner
 
 ### Sunday Nov 3
 
-* 8:00 Breakfast
+* 08:00am - 09:00am: Breakfast
 
-* 9:00 Work
+* 09:00am - 11:00am: Working time
 
-* 11:00 Presentations
+* 11:00am - 11:45am: Team presentations (World of Code, obstacles and additional features)
 
-* 11:45 I liked, I wish, I wonder
+* 11:45am - 12:00pm: Survey
 
-* 12:00 Survey
+* 12:00pm: Lunch (or lunch-box)
 
-* 12:15 Lunch (or lunch-box)
-
-* 13:00 Steelers Football game for fans or travel to the airport
+* 01:00pm: Steelers Football game for fans or travel to the airport
 
