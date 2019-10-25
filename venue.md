@@ -10,6 +10,9 @@ Gates Hillman has an entrance to the 4th floor right off of Forbes Avenue - Conf
 
 # Travel
 
+
+Bus/Lyft/Uber/Taxi to CMU
+=======
 [General travel info](https://www.cmu.edu/visit/) 
 
 Pittsburgh International Airport (PIT)
