@@ -1,12 +1,29 @@
 # Hackathon location
 
+Hackathon room location is [Gates Hillman Centers, Raj Reddy Conference Room 4405](https://goo.gl/maps/fLdALmj8ymZNonKy5)
+   
+Additional info:  
+
+* Break-out rooms are Gates Hillman Centers rooms:   6121, 6501 and 7101.
+ 
+Gates Hillman has an entrance to the 4th floor right off of Forbes Avenue - Conf. room 4405 is to the right.
+
 # Travel
 
-Pittsburgh International Airport
 
 Bus/Lyft/Uber/Taxi to CMU
+=======
+[General travel info](https://www.cmu.edu/visit/) 
 
-# Several options for the hotels:
+Pittsburgh International Airport (PIT)
+
+Bus/Uber/Taxi to CMU/Hotel/Air B&B: the bus takes about 1+hr, Uber/Lyft 30+min depending on the time of day 
+
+Walking distance to CMU from: Shadyside, Squirell Hill, Oakland
+
+Bus app: [Transit](https://transit.app)
+
+# Several options for the hotels (please ask for CMU discounted rate):
 
 ## Wyndham Pittsburgh University Center
 100 LYTTON AVE  PITTSBURGH ,  PENNSYLVANIA   15213
@@ -36,3 +53,19 @@ Pittsburgh, PA  15232
  412-441-4444
 
 https://www.shadysideinn.com/ 
+
+
+## AirBNB
+ 
+ Look for Squirell Hill, Shadyside locations
+ 
+ 
+## Reimbursement
+
+In a nutshell: economy class for flights, conus rates, no alcohol, minimize expenses
+
+[Travel Policies](https://liveutk.sharepoint.com/sites/engineering/eecs/portal/Shared%20Documents/Travel%20Policies%20and%20Procedures.docx)
+
+[Travel Policies -- more](https://universitytennessee.policytech.com/dotNet/documents/?docid=566&public=true)
+
+Kelley, Melanie <mkelle16@utk.edu> will be handling travel expenses
