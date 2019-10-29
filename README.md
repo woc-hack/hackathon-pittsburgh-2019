@@ -19,6 +19,7 @@
 
 * Online tutorial: [draft](https://github.com/woc-hack/tutorial) 
 
+* At the hackathon: you are affiliated with a university that uses EDUROAM, connect directly to that network with the username and password they typically use for their own network. [Here is the page about that]https://www.cmu.edu/computing/services/endpoint/network-access/wireless/how-to/eduroam.html). For participants without EDUROAM account guest accounts will be provided. 
 
 ## Hackathon Itself  
 
