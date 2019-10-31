@@ -39,7 +39,9 @@
 
 * 07:30pm - 08:00pm: Teams get together and get to know each other
 
-* 08:00pm: Dinner
+* 08:00pm: Dinner 
+Friday, Nov. 1:   8:30 p.m. ; Lucca Ristorante; 317 South Craig Street, Pittsburgh, 15213; 412-682-3310 
+
 
 ###  Saturday Nov 2
 
@@ -62,6 +64,10 @@
 * 06:30pm - 07:00pm: Report progress and status (of project)
 
 * 07:00pm: Dinner
+Saturday, Nov. 2:   7:15 p.m:  The Porch; SCHENLEY PLAZA; 221 Schenley Drive
+; Pittsburgh, PA 15213; (412)-687-6724  
+
+
 
 ### Sunday Nov 3
 
