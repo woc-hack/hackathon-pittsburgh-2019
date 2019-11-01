@@ -25,7 +25,7 @@
 
 ### Friday Nov 1
 
-* 05:00pm - 05:15pm: Opening Ceremony - inspirational words AND logistics/schedule
+* 05:00pm - 05:15pm: Opening Ceremony - inspirational words AND logistics/schedule [slides](https://www.dropbox.com/s/o2s6ectytigi911/intro-slides.pdf?dl=0)
 
 * 05:15pm - 05:45pm: Start with game to get to know each other (2 truths 1 lie)
 
