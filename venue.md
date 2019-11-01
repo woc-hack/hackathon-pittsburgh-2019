@@ -4,7 +4,7 @@ Hackathon room location is [Gates Hillman Centers, Raj Reddy Conference Room 440
    
 Additional info:  
 
-* Break-out rooms are Gates Hillman Centers rooms:   6121, 6501 and 7101.
+* Break-out rooms are Gates Hillman Centers rooms:   7101, 9115, 6121 and 6501 (Saturday and Sunday only)  
  
 Gates Hillman has an entrance to the 4th floor right off of Forbes Avenue - Conf. room 4405 is to the right.
 
