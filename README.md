@@ -2,7 +2,7 @@
 
 ## Pre-Hackathon Needs
 
-* [Venue, travel, reimbursement](https://github.com/woc-hack/schedule/blob/master/venue.md) 
+* [Venue, travel, reimbursement](https://github.com/woc-hack/hackathon-pittsburgh-2019/blob/master/venue.md) 
 
 * Pre-hackathon webinar: Oct 17, 11:00-13:00 EST, please [register](http://bit.ly/WoC-Signup) one day in advance to prepare the environment. Webinar will be conducted over zoom: https://tennessee.zoom.us/j/2766448345 or join from dial-in phone line: (Note: these are NOT toll-free numbers) Dial: +1 646 558 8656 or +1 408 638 0968 Meeting ID: 276 644 8345. . International numbers available: https://tennessee.zoom.us/zoomconference?m=leg4C6yjhpfGHE-_Q9EYRNHXCUMBC-2T . [You can also go over it on your own](https://github.com/woc-hack/tutorial/blob/master/README.md)
 
